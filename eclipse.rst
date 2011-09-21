@@ -70,6 +70,7 @@ SVN
 Java
 ~~~~
 
+* m2eclipse: http://m2eclipse.sonatype.org/sites/m2e
 * freemarker: http://www.freemarker.org/eclipse/update
 * findbugs: http://findbugs.cs.umd.edu/eclipse/
 * moreunit: http://moreunit.sourceforge.net/org.moreunit.updatesite/
