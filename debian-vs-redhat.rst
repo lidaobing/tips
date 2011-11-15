@@ -1,2 +1,7 @@
-dpkg -l vs rpm -qa
-/etc/hostname vs /etc/sysconfig/network
+===============  ======================
+     Debian            Redhat
+===============  ======================
+dpkg -l          rpm -qa
+/etc/hostname    /etc/sysconfig/network
+dpkg -L          rpm -qL
+===============  ======================
