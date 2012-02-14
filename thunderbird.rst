@@ -10,4 +10,4 @@ support vcal
 support winmail.dat from outlook
 --------------------------------
 
-https://addons.mozilla.org/en-US/thunderbird/addon/lookout/
+* https://addons.mozilla.org/en-US/thunderbird/addon/lookout/
